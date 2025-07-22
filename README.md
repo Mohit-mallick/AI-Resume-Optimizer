@@ -1,5 +1,8 @@
 # 🧠 Resume Optimizer (Gemini + ATS)
 
+## 🖼️ Screenshot
+![App Screenshot](https://i.ibb.co/fKm7C6K/Screenshot-2025-07-22-223955.png)
+
 - Paste JD, upload/paste resume
 - Get ATS score, missing keywords, summary
 - Auto-generate optimized resume
